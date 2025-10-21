@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=데이터%20엔지니어&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=데이터%20엔지니어&fontSize=80)
 
 # 👋 Hi there!  
 안녕하세요, **데이터 엔지니어를 꿈꾸는 ju**입니다.  
