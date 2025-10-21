@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=데이터%20엔지니어&fontSize=90)
 
 # 👋 Hi there!  
-안녕하세요, **성장하는 개발자 주형**입니다.  
+안녕하세요, **데이터 엔지니어를 꿈꾸는 ju**입니다.  
 호기심으로 시작해 끝까지 파고드는 걸 좋아하며,  
 배운 걸 실전에 녹여내는 걸 즐깁니다 💡  
 
